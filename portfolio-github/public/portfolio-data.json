@@ -1,0 +1,699 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "Saif Al Daffa",
+    "location": "Endrosono 6, Surabaya, Indonesia",
+    "shortLocation": "Surabaya, Indonesia",
+    "email": "saifaldaffa27@gmail.com",
+    "phone": "0895-2341-9085",
+    "phoneHref": "tel:+6289523419085",
+    "linkedinUrl": "https://www.linkedin.com/in/saif-al-daffa-i87s",
+    "linkedinHandle": "linkedin.com/in/saif-al-daffa-i87s",
+    "portraitSrc": "assets/saif-portrait.png",
+    "cvPdfSrc": "assets/aistudio/CV_Saif_al_daffa_EN_3423f3cd.pdf",
+    "cvFileName": "CV_Saif_Al_Daffa_EN.pdf"
+  },
+  "hero": {
+    "kicker": {
+      "id": "Operasional Aviasi · Administrasi Ekspor-Impor · Infrastruktur IT",
+      "en": "Aviation Ground Ops · Export-Import Logistics · IT Infrastructure"
+    },
+    "headline": {
+      "id": "Eksekusi operasional presisi dari landasan pacu hingga rantai pasok global.",
+      "en": "Precision field execution from airport ramps to global supply chains."
+    },
+    "lead": {
+      "id": "Lulusan Teknik Komputer dan Jaringan SMK Teknik PAL Surabaya dengan 2+ tahun pengalaman langsung memimpin tim ground handling penerbangan perintis, menjaga target produksi gudang 95%+ tanpa kecelakaan kerja, serta tersertifikasi BNSP untuk dokumen ekspor dan administrasi jaringan.",
+      "en": "Computer & Network Engineering graduate from SMK Teknik PAL Surabaya with 2+ years of hands-on experience leading pioneer airline ground handling teams, exceeding 95% warehouse QC production targets with zero K3 accidents, and holding BNSP certifications in export documentation and network administration."
+    },
+    "dossierStatus": {
+      "id": "Siap Kerja Shift · Penempatan Fleksibel",
+      "en": "Shift-Ready · Open to Deployment"
+    },
+    "aircraftSummary": "C208B · PC-6 · C172S · P180",
+    "eximSummary": "PEB · SKA · HS Code · Incoterms 2020"
+  },
+  "metrics": [
+    {
+      "id": "m1",
+      "value": {
+        "id": "2+ Tahun",
+        "en": "2+ Years"
+      },
+      "label": {
+        "id": "Pengalaman Lintas Industri",
+        "en": "Cross-Industry Operations"
+      },
+      "detail": {
+        "id": "Aviasi komersial & perintis, logistik gudang, layanan, serta IT support.",
+        "en": "Aviation ground handling, warehouse QC, outlet service, and IT support."
+      }
+    },
+    {
+      "id": "m2",
+      "value": {
+        "id": "4 Tipe Pesawat",
+        "en": "4 Aircraft"
+      },
+      "label": {
+        "id": "Marshalling & Ground Ops",
+        "en": "Marshalling & Ramp Ops"
+      },
+      "detail": {
+        "id": "Cessna C208B, Pilatus PC-6, Cessna 172S, dan Piaggio Avanti P180.",
+        "en": "Cessna C208B, Pilatus PC-6, Cessna 172S, and Piaggio Avanti P180."
+      }
+    },
+    {
+      "id": "m3",
+      "value": {
+        "id": "95%+ / 0 K3",
+        "en": "95%+ / 0 K3"
+      },
+      "label": {
+        "id": "Target Produksi & Safety",
+        "en": "Production & Safety Record"
+      },
+      "detail": {
+        "id": "Pencapaian QC harian/mingguan melampaui target dengan zero accident.",
+        "en": "Consistently exceeded daily/weekly QC targets with zero accidents."
+      }
+    },
+    {
+      "id": "m4",
+      "value": {
+        "id": "7 Sertifikasi",
+        "en": "7 Credentials"
+      },
+      "label": {
+        "id": "Lisensi & Pelatihan Resmi",
+        "en": "Verified Certifications"
+      },
+      "detail": {
+        "id": "BNSP Network, BNSP Ekspor, EXIM Polindo, AVSEC, FOO & Top 5 TOEIC.",
+        "en": "BNSP Network, BNSP Export Docs, EXIM Polindo, AVSEC, FOO & Top 5 TOEIC."
+      }
+    }
+  ],
+  "marqueeItems": {
+    "id": [
+      "Ground Handling & Flight Plan (Chronos · AirNav WFP)",
+      "Ekspor-Impor & Incoterms 2020 (EXW · FOB · CFR · CIF)",
+      "Dokumen Kepabeanan (Invoice · Packing List · B/L · AWB · SKA · PEB · PIB)",
+      "Manajemen Gudang, Stock Opname & Quality Control K3",
+      "Jaringan, Server, CCTV & Pemeliharaan Kelistrikan"
+    ],
+    "en": [
+      "Ground Handling & Flight Plans (Chronos · AirNav WFP)",
+      "Export-Import & Incoterms 2020 (EXW · FOB · CFR · CIF)",
+      "Trade Documents (Invoice · Packing List · B/L · AWB · SKA · PEB · PIB)",
+      "Warehouse Stock Opname, Production & K3 Safety",
+      "Network Infrastructure, Server, CCTV & Electrical Maintenance"
+    ]
+  },
+  "education": {
+    "schoolName": "SMK Teknik PAL Surabaya",
+    "schoolPeriod": "2022 – 2024 · Surabaya",
+    "major": {
+      "id": "Teknik Komputer dan Jaringan (Computer & Network Engineering)",
+      "en": "Computer and Network Engineering"
+    },
+    "points": {
+      "id": [
+        "Aktif dalam pemeliharaan perangkat lunak dan perangkat keras komputer sekolah.",
+        "Lulus dengan nilai memuaskan serta masuk peringkat 5 besar nilai TOEIC tertinggi di sekolah."
+      ],
+      "en": [
+        "Active in school software and hardware maintenance extracurricular activities.",
+        "Graduated with satisfactory grades and ranked in the school’s Top 5 for highest TOEIC scores."
+      ]
+    }
+  },
+  "experiences": [
+    {
+      "id": "asi-ground-crew",
+      "category": "aviation",
+      "categoryLabel": {
+        "id": "Aviasi & Ground Ops",
+        "en": "Aviation & Ground Ops"
+      },
+      "period": "2024 – 2025",
+      "location": "Tardamu (NTT) & Nusawiru (Pangandaran)",
+      "organization": "PT. ASI Pudjiastuti Aviation",
+      "role": {
+        "id": "Ground Crew & All Ops Staff",
+        "en": "Ground Crew & All Ops Staff"
+      },
+      "summary": {
+        "id": "Perwakilan maskapai di Bandara Tardamu (NTT) dan operasional kantor pusat Bandara Nusawiru—memimpin tim ground handling, menangani 4 tipe pesawat, serta mengelola slot penerbangan via Chronos dan AirNav WFP.",
+        "en": "Served as airline representative at Tardamu Airport (NTT) and head-office ground ops at Nusawiru Airport—leading ground handling teams, marshalling 4 aircraft types, and managing flight slots via Chronos & AirNav WFP."
+      },
+      "highlights": {
+        "id": [
+          "Menjadi perwakilan maskapai di Bandara Tardamu (Sabu Raijua, NTT), memimpin tim ground handling 4 orang untuk menjaga performa ground time sekaligus melatih dan membimbing peserta magang.",
+          "Bertanggung jawab atas operasional ground handling kantor pusat maskapai di Bandara Nusawiru (Cijulang, Jawa Barat), memimpin tim 3 orang, berkoordinasi dengan mekanik, membantu pengisian bahan bakar bersama Pertamina/mekanik hangar, dan membimbing karyawan baru.",
+          "Menangani & memandu parkir (marshalling) pesawat Cessna Grand Caravan (C208B), Pilatus Porter (PC-6), Cessna 172 Skyhawk (C172S), serta Piaggio Avanti (P180), beserta administrasi dan laporan penerbangan harian.",
+          "Ditugaskan menyiapkan armada dan pemeliharaan bersama mekanik pada \"Sumatra Humanitarian Mission 2025\", menangani bongkar-muat bagasi/kargo, inventarisasi drum Avtur & Avgas, serta pengisian bahan bakar sesuai prosedur keselamatan.",
+          "Mengelola slot waktu dan flight plan untuk penerbangan Reguler, Perintis, MEDEVAC, Charter, Training, dan Corporate menggunakan sistem Chronos dan Web Flight Plan (WFP) AirNav untuk menjaga On-Time Performance (OTP).",
+          "Membangun kepercayaan dengan UPBU, UPTD, agen perjalanan lokal, otoritas pelabuhan, BUMN, TNI/POLRI, dan pemerintah daerah hingga kontrak penerbangan perintis 2024 tuntas dan berlanjut ke 2025."
+        ],
+        "en": [
+          "Served as airline representative at Tardamu Airport (Sabu Raijua, NTT), leading a 4-person ground handling team to optimize ground time and training airport interns.",
+          "Managed head-office ground handling operations at Nusawiru Airport (Cijulang, West Java), leading a 3-person team, coordinating hangar mechanics and Pertamina refueling, and mentoring new field staff.",
+          "Handled and marshalled Cessna Grand Caravan (C208B), Pilatus Porter (PC-6), Cessna 172 Skyhawk (C172S), and Piaggio Avanti (P180) aircraft with daily flight reporting and external coordination.",
+          "Assigned to fleet readiness and maintenance support for the \"Sumatra Humanitarian Mission 2025\", handling baggage/cargo loading, Avtur & Avgas drum inventory, and crew refueling procedures.",
+          "Managed slot times and flight plans for Regular, Pioneer, MEDEVAC, Charter, Training, and Corporate flights via Chronos and AirNav Web Flight Plan (WFP) to sustain high On-Time Performance (OTP).",
+          "Built strong institutional coordination with UPBU, UPTD, port authorities, BUMN, TNI/POLRI, and local government—completing the 2024 pioneer contract and securing continuation into 2025."
+        ]
+      },
+      "systemsAndTools": [
+        "Cessna C208B · Pilatus PC-6 · Cessna C172S · Piaggio P180",
+        "Chronos Flight System",
+        "AirNav Web Flight Plan (WFP)",
+        "Avtur & Avgas Fuel Inventory",
+        "UPBU / UPTD / TNI-POLRI Liaison"
+      ],
+      "keyOutcome": {
+        "id": "Menuntaskan kontrak penerbangan perintis 2024 hingga berlanjut di 2025 serta mendukung langsung misi kemanusiaan Sumatra 2025 dengan OTP tinggi.",
+        "en": "Completed the 2024 pioneer flight contract into 2025 renewal and directly supported the 2025 Sumatra Humanitarian Mission with high OTP."
+      },
+      "featured": true
+    },
+    {
+      "id": "polindo-exim",
+      "category": "exim",
+      "categoryLabel": {
+        "id": "EXIM & Pelatihan",
+        "en": "EXIM & Training"
+      },
+      "period": "2026",
+      "location": "Surabaya",
+      "organization": "Polindo Surabaya",
+      "role": {
+        "id": "Peserta Pelatihan & Sertifikasi EXIM (Ekspor-Impor)",
+        "en": "EXIM (Export-Import) Training & Certification"
+      },
+      "summary": {
+        "id": "Menguasai alur transaksi perdagangan internasional, penyusunan dokumen kepabeanan (Invoice, Packing List, B/L, AWB, COO/SKA, PEB, PIB), Incoterms 2020, serta kalkulasi biaya ekspor-impor.",
+        "en": "Trained and certified in international trade workflows, export-import customs documents (Commercial Invoice, Packing List, B/L, AWB, COO/SKA, PEB, PIB), Incoterms 2020, and freight/duty cost calculation."
+      },
+      "highlights": {
+        "id": [
+          "Mempelajari konsep perdagangan internasional dan peran eksportir, importir, supplier, buyer, hingga freight forwarder dari persiapan transaksi sampai pengiriman ke negara tujuan.",
+          "Menguasai jenis dan fungsi dokumen ekspor-impor: Commercial Invoice, Packing List, Bill of Lading (B/L), Air Waybill (AWB), Certificate of Origin (COO/SKA), PEB, dan PIB serta regulasi kepabeanan.",
+          "Memahami penerapan Incoterms 2020 (EXW, FOB, CFR, CIF) terkait pembagian tanggung jawab, biaya, dan risiko antara penjual dan pembeli pada pengiriman laut maupun udara.",
+          "Menguasai perhitungan dasar biaya ekspor-impor meliputi biaya freight, bea kepabeanan, bea masuk (import duty), pajak impor, dan biaya logistik lainnya."
+        ],
+        "en": [
+          "Mastered international trade fundamentals and roles across exporters, importers, suppliers, buyers, and freight forwarders from contract prep to destination delivery.",
+          "Prepared and analyzed core trade documents: Commercial Invoice, Packing List, Bill of Lading (B/L), Air Waybill (AWB), Certificate of Origin (COO/SKA), PEB, and PIB under customs regulations.",
+          "Applied Incoterms 2020 (EXW, FOB, CFR, CIF) covering cost, risk, and responsibility allocation across sea freight and air freight distribution.",
+          "Calculated end-to-end EXIM landed costs including freight charges, customs fees, import duties, import taxes, and logistics expenses."
+        ]
+      },
+      "systemsAndTools": [
+        "Commercial Invoice & Packing List",
+        "HS Code Classification",
+        "B/L & AWB",
+        "COO / SKA · PEB · PIB",
+        "Incoterms 2020 (EXW, FOB, CFR, CIF)"
+      ],
+      "keyOutcome": {
+        "id": "Tersertifikasi resmi Polindo Program EXIM dan Kompetensi Penyiapan Dokumen Ekspor BNSP.",
+        "en": "Awarded Polindo EXIM Training Certificate and BNSP Export Document Preparation Competency."
+      },
+      "featured": true
+    },
+    {
+      "id": "plafonesia-warehouse",
+      "category": "exim",
+      "categoryLabel": {
+        "id": "Gudang & QC",
+        "en": "Warehouse & QC"
+      },
+      "period": "2026",
+      "location": "Surabaya",
+      "organization": "Plafonesia",
+      "role": {
+        "id": "Warehouse Staff & Produksi QC",
+        "en": "Warehouse Staff & Production QC"
+      },
+      "summary": {
+        "id": "Verifikasi barang masuk berbasis PO, pencatatan stok & stock opname berkala, operasional mesin produksi sesuai SOP, inspeksi Quality Control, serta menjaga target produksi >95% dengan nol kecelakaan kerja.",
+        "en": "Handled PO-based inbound verification, inventory books & stock opname, SOP machine operation, and finished-goods QC—consistently exceeding 95% production targets with zero safety incidents."
+      },
+      "highlights": {
+        "id": [
+          "Menerima dan memverifikasi jumlah serta jenis barang dari supplier berdasarkan Purchase Order (PO) atau surat jalan serta memeriksa kondisi fisik bebas kerusakan.",
+          "Menata barang pada rak/area gudang per kategori, mencatat barang masuk dan keluar secara akurat pada sistem/buku stok, serta melakukan stock opname berkala.",
+          "Menyiapkan, mengambil (picking), dan mengemas (packing) barang sesuai dokumen pesanan serta melakukan pengecekan ganda sebelum pemuatan ke armada pengiriman.",
+          "Mengoperasikan dan merawat mesin produksi sesuai SOP, menjalankan inspeksi Quality Control produk jadi, melampaui target produksi harian/mingguan 95%, serta menerapkan K3 dengan catatan nol kecelakaan kerja."
+        ],
+        "en": [
+          "Received and verified supplier deliveries against Purchase Orders (PO) and delivery notes while inspecting physical condition.",
+          "Organized warehouse racking by category, logged inbound/outbound inventory accurately, and ran periodic physical stock opnames to minimize discrepancies.",
+          "Picked, packed, double-checked outgoing shipments against order documents, and assisted loading onto delivery vehicles.",
+          "Operated and maintained production machinery per SOP, executed finished-product QC inspections, exceeded 95% daily/weekly production targets, and maintained zero accidents under strict K3 safety standards."
+        ]
+      },
+      "systemsAndTools": [
+        "Purchase Order (PO) Verification",
+        "Stock Opname & Inventory Ledger",
+        "SOP Machine Maintenance",
+        "Quality Control Inspection",
+        "Keselamatan Kerja (K3)"
+      ],
+      "keyOutcome": {
+        "id": "Target produksi harian/mingguan 95%+ konsisten terlampaui dengan Zero Accident selama masa kerja.",
+        "en": "Consistently exceeded 95% daily/weekly production targets with Zero Accidents throughout tenure."
+      }
+    },
+    {
+      "id": "asi-ojt",
+      "category": "aviation",
+      "categoryLabel": {
+        "id": "Aviasi OJT",
+        "en": "Aviation OJT"
+      },
+      "period": "2024",
+      "location": "Pangandaran, Jawa Barat",
+      "organization": "PT. ASI Pudjiastuti Aviation",
+      "role": {
+        "id": "On The Job Training (Operasional & Layanan Penerbangan)",
+        "en": "On The Job Training (Flight Ops & Aviation Services)"
+      },
+      "summary": {
+        "id": "Pelatihan intensif operasional maskapai meliputi sistem tiket, call center, administrasi treasury & Accounts Payable, penyusunan Flight Plan (FPL), serta regulasi ICAO DG, AVSEC, dan ERP.",
+        "en": "Intensive airline operations training covering ticketing systems, call center SOPs, treasury & Accounts Payable verification, Flight Plan (FPL) preparation, and ICAO Dangerous Goods/AVSEC standards."
+      },
+      "highlights": {
+        "id": [
+          "Mempelajari standar operasional layanan penumpang, call center, serta sistem tiket penerbangan (booking, refund, dan reschedule).",
+          "Mempelajari proses administrasi keuangan operasional: revenue, cash & bank, treasury, laporan Avtur, cash ops, dan verifikasi faktur Accounts Payable dari bandara maupun vendor.",
+          "Memperoleh pengalaman praktis terkait izin terbang, kontrak kerja sama pemerintah, laporan penerbangan rutin, penyusunan Flight Plan (FPL), slot waktu, dan koordinasi dengan AirNav, UPBU, Angkasa Pura, dan TNI.",
+          "Mengikuti pelatihan keselamatan & keamanan penerbangan meliputi Dangerous Goods (DG), AVSEC standar ICAO, identifikasi bahaya, jadwal inspeksi perawatan pesawat, dan Emergency Response Plan (ERP)."
+        ],
+        "en": [
+          "Trained in aviation passenger service, call center standards, and flight ticketing workflows (booking, refund, and reschedule).",
+          "Practiced aviation financial administration including revenue, cash & bank, treasury, Avtur reporting, cash ops, and Accounts Payable invoice verification for airports and vendors.",
+          "Gained hands-on experience in flight permits, government contracts, routine flight reports, Flight Plan (FPL) preparation, time slots, and coordination with AirNav, UPBU, Angkasa Pura, and TNI.",
+          "Completed aviation safety & security training covering ICAO Dangerous Goods, AVSEC regulations, hazard identification, routine aircraft inspection schedules, and Emergency Response Plans (ERP)."
+        ]
+      },
+      "systemsAndTools": [
+        "Ticketing (Booking · Refund · Reschedule)",
+        "Accounts Payable & Avtur Reporting",
+        "Flight Plan (FPL) & AirNav Coordination",
+        "ICAO Dangerous Goods & AVSEC",
+        "Emergency Response Plan (ERP)"
+      ],
+      "keyOutcome": {
+        "id": "Fondasi langsung sebelum ditugaskan sebagai perwakilan maskapai & pemimpin tim ground handling di NTT dan Pangandaran.",
+        "en": "Direct operational foundation leading to immediate deployment as airline representative & ground handling team lead."
+      }
+    },
+    {
+      "id": "ipso-outlet",
+      "category": "it",
+      "categoryLabel": {
+        "id": "Layanan & Teknis",
+        "en": "Service & Ops"
+      },
+      "period": "2024",
+      "location": "Surabaya",
+      "organization": "IPSO Laundromart",
+      "role": {
+        "id": "Outlet Staff",
+        "en": "Outlet Staff"
+      },
+      "summary": {
+        "id": "Pelayanan pelanggan, pelaporan teknis harian mesin cuci dan tangki air, serta penyelesaian kendala teknis internal outlet untuk menjaga keandalan operasional.",
+        "en": "Delivered customer service, maintained daily operational logs for washing machines and water tanks, and resolved internal technical outlet issues."
+      },
+      "highlights": {
+        "id": [
+          "Melayani transaksi pembelian pelanggan dan menjaga kebersihan serta kenyamanan area kerja outlet.",
+          "Menyusun laporan kondisi harian mesin cuci dan tangki air secara rutin.",
+          "Menyelesaikan kendala teknis internal di outlet guna menjaga kepuasan pelanggan dan profesionalisme layanan."
+        ],
+        "en": [
+          "Assisted customers with purchases while maintaining outlet cleanliness and presentation standards.",
+          "Prepared daily operational and condition reports for washing machines and water tank systems.",
+          "Resolved internal technical outlet issues promptly to sustain service reliability and customer trust."
+        ]
+      },
+      "systemsAndTools": [
+        "Customer Service Operations",
+        "Daily Equipment Inspection Logs",
+        "On-Site Technical Troubleshooting"
+      ],
+      "keyOutcome": {
+        "id": "Menjaga keandalan operasional harian outlet sekaligus meningkatkan kepuasan pelanggan.",
+        "en": "Sustained daily equipment reliability and high customer satisfaction scores."
+      }
+    },
+    {
+      "id": "infoglobal-it",
+      "category": "it",
+      "categoryLabel": {
+        "id": "IT & Jaringan",
+        "en": "IT & Networking"
+      },
+      "period": "2023",
+      "location": "Surabaya",
+      "organization": "PT. Infoglobal Teknologi Semesta",
+      "role": {
+        "id": "IT Support Intern",
+        "en": "IT Support Intern"
+      },
+      "summary": {
+        "id": "Perbaikan perangkat keras & lunak, pemulihan unit komputer, instalasi serta pemeliharaan jaringan, server, telepon kantor, dan sistem CCTV perusahaan.",
+        "en": "Performed software and hardware repairs, restored corporate computers, and installed/maintained CCTV systems, servers, office phones, and network equipment."
+      },
+      "highlights": {
+        "id": [
+          "Melaksanakan perbaikan software dan hardware hingga berhasil memulihkan beberapa komputer bekas dan perangkat kerja perusahaan agar siap pakai kembali.",
+          "Memelihara perangkat jaringan, komputer, laptop, server, telepon kantor, serta melakukan instalasi sistem CCTV dan perangkat jaringan baru.",
+          "Terlibat dalam perbaikan dan penataan ulang ruang rapat serta ruang server sambil membangun kolaborasi lintas departemen."
+        ],
+        "en": [
+          "Executed software and hardware troubleshooting, successfully restoring multiple used corporate computers and equipment.",
+          "Maintained servers, laptops, office telephones, and network hardware while installing corporate CCTV and networking gear.",
+          "Assisted in repairing and reorganizing meeting rooms and the company server room across departments."
+        ]
+      },
+      "systemsAndTools": [
+        "Hardware & Software Restoration",
+        "CCTV & Network Installation",
+        "Server Room & Meeting Room Setup",
+        "Cross-Department IT Support"
+      ],
+      "keyOutcome": {
+        "id": "Memulihkan aset komputer perusahaan dan memperluas infrastruktur CCTV serta jaringan antar-ruangan.",
+        "en": "Restored corporate computing assets and expanded internal CCTV and network infrastructure."
+      }
+    }
+  ],
+  "competencies": [
+    {
+      "id": "aviation",
+      "title": {
+        "id": "Operasional Aviasi & Ground Handling",
+        "en": "Aviation Ops & Ground Handling"
+      },
+      "subtitle": {
+        "id": "Manajemen pergerakan pesawat di darat, kepatuhan ICAO/DGCA, serta koordinasi lintas otoritas bandara.",
+        "en": "Ramp marshalling, flight dispatch coordination, and ICAO/DGCA safety compliance."
+      },
+      "capabilities": {
+        "id": [
+          "Memimpin tim ground handling (3–4 personel) dan membimbing karyawan baru maupun peserta magang.",
+          "Pengelolaan slot waktu dan Flight Plan (FPL) untuk penerbangan Reguler, Perintis, MEDEVAC, Charter, Training, dan Corporate.",
+          "Penanganan Dangerous Goods (DG) & prosedur Aviation Security (AVSEC) sesuai standar ICAO, DJPU/DGCA, dan maskapai.",
+          "Standar layanan penumpang, call center, sistem reservasi tiket (booking, refund, reschedule), serta manajemen bagasi & kargo.",
+          "Koordinasi operasional dengan AirNav, UPBU, UPTD, Angkasa Pura, Pertamina (Avtur/Avgas), dan TNI/POLRI."
+        ],
+        "en": [
+          "Led 3–4 person ground handling teams and trained new field staff and airport interns.",
+          "Managed time slots and Flight Plans (FPL) across Regular, Pioneer, MEDEVAC, Charter, Training, and Corporate missions.",
+          "Applied Dangerous Goods (DG) handling and Aviation Security (AVSEC) protocols per ICAO & DGCA standards.",
+          "Passenger handling, call center standards, ticketing workflows (booking, refund, reschedule), and baggage/cargo ops.",
+          "External coordination with AirNav, UPBU, UPTD, Angkasa Pura, Pertamina refueling, and TNI/POLRI."
+        ]
+      },
+      "specs": [
+        {
+          "code": "C208B / PC-6",
+          "detail": {
+            "id": "Cessna Grand Caravan & Pilatus Porter",
+            "en": "Cessna Grand Caravan & Pilatus Porter"
+          }
+        },
+        {
+          "code": "C172S / P180",
+          "detail": {
+            "id": "Cessna 172 Skyhawk & Piaggio Avanti",
+            "en": "Cessna 172 Skyhawk & Piaggio Avanti"
+          }
+        },
+        {
+          "code": "CHRONOS · WFP",
+          "detail": {
+            "id": "Penjadwalan Slot & AirNav Web Flight Plan",
+            "en": "Slot Management & AirNav Web Flight Plan"
+          }
+        },
+        {
+          "code": "AVSEC · DG",
+          "detail": {
+            "id": "Keamanan & Barang Berbahaya Standar ICAO",
+            "en": "ICAO Aviation Security & Dangerous Goods"
+          }
+        }
+      ]
+    },
+    {
+      "id": "exim",
+      "title": {
+        "id": "Ekspor-Impor (EXIM) & Logistik Global",
+        "en": "Export-Import (EXIM) & Global Trade"
+      },
+      "subtitle": {
+        "id": "Kompetensi tersertifikasi BNSP & Polindo dalam dokumentasi kepabeanan, Incoterms 2020, dan perhitungan biaya pengiriman.",
+        "en": "BNSP & Polindo certified competency in customs paperwork, Incoterms 2020, and landed cost calculation."
+      },
+      "capabilities": {
+        "id": [
+          "Penyusunan dan pemeriksaan dokumen ekspor-impor: Commercial Invoice, Packing List, Bill of Lading (B/L), dan Air Waybill (AWB).",
+          "Pengurusan dokumen kepabeanan dan asal barang: HS Code, Certificate of Origin (COO/SKA), PEB, dan PIB.",
+          "Pemahaman alur kerja eksportir, importir, supplier, buyer, dan freight forwarder untuk sea freight maupun air freight.",
+          "Analisis tanggung jawab, biaya, dan risiko pengiriman berdasarkan Incoterms 2020 (EXW, FOB, CFR, CIF).",
+          "Perhitungan biaya ekspor-impor mencakup biaya angkut (freight), bea kepabeanan, bea masuk, dan pajak impor."
+        ],
+        "en": [
+          "Preparation and verification of Commercial Invoice, Packing List, Bill of Lading (B/L), and Air Waybill (AWB).",
+          "Customs & origin compliance: HS Code classification, Certificate of Origin (COO/SKA), PEB, and PIB.",
+          "End-to-end sea freight and air freight coordination across exporters, importers, suppliers, buyers, and forwarders.",
+          "Cost, risk, and responsibility allocation under Incoterms 2020 (EXW, FOB, CFR, CIF).",
+          "Export-import cost calculation covering freight, customs fees, import duty, and import taxes."
+        ]
+      },
+      "specs": [
+        {
+          "code": "PEB · PIB · SKA",
+          "detail": {
+            "id": "Deklarasi Ekspor-Impor & Surat Keterangan Asal",
+            "en": "Export/Import Declarations & Certificate of Origin"
+          }
+        },
+        {
+          "code": "HS CODE",
+          "detail": {
+            "id": "Klasifikasi Komoditas Kepabeanan",
+            "en": "Harmonized System Tariff Classification"
+          }
+        },
+        {
+          "code": "EXW · FOB · CIF",
+          "detail": {
+            "id": "Incoterms 2020 (termasuk CFR)",
+            "en": "Incoterms 2020 (including CFR)"
+          }
+        },
+        {
+          "code": "SEA & AIR",
+          "detail": {
+            "id": "Alur Distribusi B/L & Air Waybill (AWB)",
+            "en": "Bill of Lading & Air Waybill Logistics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "warehouse",
+      "title": {
+        "id": "Gudang, Quality Control & K3",
+        "en": "Warehouse, Quality Control & K3"
+      },
+      "subtitle": {
+        "id": "Akurasi inventaris PO hingga pengiriman, perawatan mesin produksi SOP, dan budaya kerja tanpa kecelakaan.",
+        "en": "PO-to-dispatch inventory accuracy, SOP production machinery operation, and zero-accident K3 discipline."
+      },
+      "capabilities": {
+        "id": [
+          "Penerimaan barang berbasis Purchase Order (PO) / surat jalan serta pemeriksaan fisik kelayakan barang.",
+          "Penataan rak per kategori, pencatatan buku/sistem stok masuk-keluar, dan pelaksanaan stock opname berkala.",
+          "Proses picking, packing, double-check dokumen order, serta pemuatan ke kendaraan distribusi.",
+          "Pengoperasian & perawatan mesin produksi sesuai SOP serta inspeksi Quality Control produk jadi bebas cacat.",
+          "Kepatuhan ketat prinsip Keselamatan dan Kesehatan Kerja (K3) dengan rekam jejak nol kecelakaan kerja."
+        ],
+        "en": [
+          "Inbound verification against Purchase Orders (PO) and delivery notes with physical defect checks.",
+          "Categorized warehouse racking, accurate stock ledger tracking, and periodic physical stock opnames.",
+          "Order picking, packing, pre-shipment double-checks, and delivery vehicle loading.",
+          "SOP-compliant production machine operation and finished-goods QC inspection.",
+          "Strict occupational health and safety (K3) adherence maintaining a zero-accident record."
+        ]
+      },
+      "specs": [
+        {
+          "code": "95%+ TARGET",
+          "detail": {
+            "id": "Pencapaian Produksi Harian/Mingguan",
+            "en": "Daily & Weekly Production Achievement"
+          }
+        },
+        {
+          "code": "0 ACCIDENT",
+          "detail": {
+            "id": "Kepatuhan Standar K3 Lingkungan Pabrik",
+            "en": "Zero-Accident K3 Safety Compliance"
+          }
+        },
+        {
+          "code": "PO · OPNAME",
+          "detail": {
+            "id": "Audit Penerimaan & Perhitungan Stok Fisik",
+            "en": "PO Verification & Physical Stock Counts"
+          }
+        },
+        {
+          "code": "QC · SOP",
+          "detail": {
+            "id": "Inspeksi Produk Jadi Bebas Cacat",
+            "en": "Defect-Free Finished Goods Inspection"
+          }
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "title": {
+        "id": "IT, Jaringan, Kelistrikan & Bahasa",
+        "en": "IT, Networking, Electrical & Languages"
+      },
+      "subtitle": {
+        "id": "Pemeliharaan perangkat keras, instalasi jaringan & CCTV, kelistrikan dasar, serta komunikasi bahasa Inggris profesional.",
+        "en": "Hardware/software repair, CCTV & network installation, standard electrical maintenance, and professional English."
+      },
+      "capabilities": {
+        "id": [
+          "Tersertifikasi BNSP Junior Network Administrator dengan pengalaman nyata penataan ruang server & jaringan.",
+          "Perbaikan perangkat keras & lunak komputer, laptop, server, telepon kantor, serta instalasi sistem CCTV.",
+          "Pemeliharaan serta instalasi sistem kelistrikan standar industri dan operasional fasilitas.",
+          "Mahir mengoperasikan aplikasi Microsoft Office (Excel, Word, pelaporan operasional & administrasi).",
+          "Kemampuan Bahasa Inggris profesional lisan & tulisan (peringkat 5 besar skor TOEIC terbaik sekolah)."
+        ],
+        "en": [
+          "BNSP Certified Junior Network Administrator with hands-on server room and office network experience.",
+          "Hardware & software restoration across PCs, laptops, servers, office phones, and CCTV systems.",
+          "Standard electrical installation and facility equipment maintenance.",
+          "Proficient in Microsoft Office (Excel, Word, administrative and daily operational reporting).",
+          "Highly proficient in spoken and written professional English (Top 5 school TOEIC ranking)."
+        ]
+      },
+      "specs": [
+        {
+          "code": "BNSP JNA",
+          "detail": {
+            "id": "Junior Network Administrator Tersertifikasi",
+            "en": "Certified Junior Network Administrator"
+          }
+        },
+        {
+          "code": "TOEIC TOP 5",
+          "detail": {
+            "id": "5 Besar Skor Terbaik SMK Teknik PAL Surabaya",
+            "en": "Top 5 Highest Scores at SMK Teknik PAL"
+          }
+        },
+        {
+          "code": "CCTV & LAN",
+          "detail": {
+            "id": "Instalasi Perangkat Jaringan & Ruang Server",
+            "en": "Network Equipment & Server Room Setup"
+          }
+        },
+        {
+          "code": "MS OFFICE",
+          "detail": {
+            "id": "Excel, Word & Administrasi Pelaporan",
+            "en": "Excel, Word & Operational Reporting"
+          }
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "bnsp-jna",
+      "title": "BNSP Junior Network Administrator",
+      "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
+      "domain": {
+        "id": "Jaringan & Infrastruktur IT",
+        "en": "IT & Networking"
+      },
+      "yearOrContext": "National Competency"
+    },
+    {
+      "id": "bnsp-export",
+      "title": "BNSP Export Document Preparation",
+      "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
+      "domain": {
+        "id": "Invoice · HS Code · SKA · PEB",
+        "en": "Invoice · HS Code · SKA · PEB"
+      },
+      "yearOrContext": "National Competency"
+    },
+    {
+      "id": "polindo-exim",
+      "title": "Certificate Of Training Polindo Program \"EXIM\"",
+      "issuer": "Polindo Surabaya",
+      "domain": {
+        "id": "Ekspor-Impor & Incoterms 2020",
+        "en": "Export-Import & Incoterms 2020"
+      },
+      "yearOrContext": "2026 · Surabaya"
+    },
+    {
+      "id": "upbu-avsec",
+      "title": "Security Awareness (UPBU TARDAMU)",
+      "issuer": "UPBU Bandara Tardamu",
+      "domain": {
+        "id": "Keamanan Penerbangan (AVSEC)",
+        "en": "Aviation Security"
+      },
+      "yearOrContext": "Tardamu Airport, NTT"
+    },
+    {
+      "id": "aviaterra-foo",
+      "title": "Webinar Flight Operation Officer (FOO)",
+      "issuer": "Aviaterra",
+      "domain": {
+        "id": "Operasional Penerbangan",
+        "en": "Flight Operations"
+      },
+      "yearOrContext": "Aviation Training"
+    },
+    {
+      "id": "infoglobal-intern",
+      "title": "Internship Certificate — IT Support",
+      "issuer": "PT. Infoglobal Teknologi Semesta",
+      "domain": {
+        "id": "Hardware, Jaringan & CCTV",
+        "en": "Hardware, Network & CCTV"
+      },
+      "yearOrContext": "2023 · Surabaya"
+    },
+    {
+      "id": "toeic-cert",
+      "title": "TOEIC Certificate (Top 5 School Ranking)",
+      "issuer": "SMK Teknik PAL Surabaya",
+      "domain": {
+        "id": "Bahasa Inggris Profesional",
+        "en": "Professional English"
+      },
+      "yearOrContext": "2022–2024 Cohort"
+    }
+  ]
+}
