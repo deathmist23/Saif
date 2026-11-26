@@ -1,0 +1,72 @@
+/* ==========================================================================
+   PENGATURAN TAMPILAN WEBSITE PORTOFOLIO (UKURAN HURUF & WARNA)
+   --------------------------------------------------------------------------
+   PANDUAN MUDAH JIKA INGIN EDIT LANGSUNG:
+   - Anda cukup mengganti angka atau kode warna di sebelah kanan tanda (:).
+   - Jangan hapus tanda titik koma (;) di akhir setiap baris.
+   - Jika tidak ingin repot mengedit file ini, Anda juga bisa mengubah
+     semuanya langsung lewat tombol "Mode Admin" -> tab "Tampilan & Warna".
+   ========================================================================== */
+
+:root {
+  /* 1. UKURAN TULISAN & SPASI BACA */
+  --portfolio-font-size-base: 17px;     /* Ukuran huruf utama: 16px = normal, 17px = nyaman, 19px = besar */
+  --portfolio-line-height-body: 1.7;    /* Jarak antarbaris: 1.5 = agak rapat, 1.7 = nyaman, 1.9 = sangat lega */
+
+  /* 2. WARNA LATAR & KOTAK */
+  --portfolio-bg-page: #f8fafc;         /* Warna latar belakang halaman website (abu-abu sangat muda) */
+  --portfolio-bg-surface: #ffffff;      /* Warna kotak / kartu putih tempat isi tulisan berada */
+  --portfolio-bg-dark: #0b192c;         /* Warna kotak gelap (kotak profil kanan & bagian kontak bawah) */
+
+  /* 3. WARNA TULISAN & TOMBOL */
+  --portfolio-text-heading: #0f172a;      /* Warna teks khusus judul utama & judul tiap bagian */
+  --portfolio-text-heading-dark: #ffffff; /* Warna judul di dalam kotak gelap (profil & kontak) */
+  --portfolio-text-primary: #0f172a;      /* Warna tulisan isi utama (hitam pekat agar jelas) */
+  --portfolio-text-secondary: #334155;    /* Warna tulisan keterangan / paragraf */
+  --portfolio-brand-accent: #1d4ed8;      /* Warna tombol utama, sorotan teks, dan garis menu aktif */
+  --portfolio-nav-active-bg: #eff6ff;     /* Warna latar lembut di belakang menu navigasi yang sedang dibuka */
+  --portfolio-border-color: #cbd5e1;      /* Warna garis tipis pembatas antar kotak */
+
+  /* 4. BENTUK SUDUT KOTAK */
+  --portfolio-radius-card: 16px;        /* Kelengkungan sudut kotak: 0px = siku tajam, 16px = melengkung rapi */
+}
+
+html {
+  font-size: var(--portfolio-font-size-base);
+  scroll-padding-top: 84px;
+}
+
+body {
+  background-color: var(--portfolio-bg-page);
+  color: var(--portfolio-text-primary);
+  line-height: var(--portfolio-line-height-body);
+}
+
+/* Kelas pembantu yang menghubungkan tampilan website dengan pengaturan di atas */
+.portfolio-surface {
+  background-color: var(--portfolio-bg-surface);
+  border-color: var(--portfolio-border-color);
+  border-radius: var(--portfolio-radius-card);
+}
+
+.portfolio-dark-panel {
+  background-color: var(--portfolio-bg-dark);
+  border-radius: var(--portfolio-radius-card);
+}
+
+.portfolio-text-muted {
+  color: var(--portfolio-text-secondary);
+}
+
+.portfolio-accent-text {
+  color: var(--portfolio-brand-accent);
+}
+
+.portfolio-accent-bg {
+  background-color: var(--portfolio-brand-accent);
+}
+
+.portfolio-nav-active {
+  background-color: var(--portfolio-nav-active-bg);
+  color: var(--portfolio-brand-accent);
+}
